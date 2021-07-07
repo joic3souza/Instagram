@@ -1,2 +1,2 @@
 # Instagram
-Meu projeto da pagina inicial do Instagram. 
+Meu projeto da pagina inicial do Instagram. 😄
